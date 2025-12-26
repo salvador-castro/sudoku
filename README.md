@@ -137,7 +137,7 @@ Se maneja con `useReducer`, no con múltiples `useState`.
 ## 🛠️ Instalación
 
 ```bash
-git clone <repo>
+git clone ```git@github.com:salvador-castro/sudoku.git```
 cd sudoku
 npm install
 npm run dev
