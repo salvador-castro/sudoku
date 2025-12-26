@@ -145,6 +145,19 @@ npm run dev
 
 ---
 
+## 🤝 Contribuciones
+
+Este proyecto está abierto a mejoras.
+
+Podés contribuir mediante:
+- reporte de errores (Issues)
+- propuestas de mejoras
+- Pull Requests
+
+Antes de enviar cambios, asegurate de que el código mantenga la estructura y el estilo del proyecto.
+
+---
+
 ## 📄 Licencia
 
 MIT
